@@ -1,5 +1,5 @@
 {
-    "name": "optimus/api-consumer",
+    "name": "clickbar/api-consumer",
     "require": {
         "laravel/framework": "^7.0"
     },
